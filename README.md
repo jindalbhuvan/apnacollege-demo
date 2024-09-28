@@ -1,4 +1,4 @@
 # apnacollege-demo
 this is my first git repository
 <br>
-author-bhuvan jindal 
+author-bhuvan jindal (apna college)
